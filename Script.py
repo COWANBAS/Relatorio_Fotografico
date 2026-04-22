@@ -37,7 +37,7 @@ def criar_cabecalho_formal(doc):
     run_tit = p_tit.add_run("RELATÓRIO\nFOTOGRÁFICO")
     run_tit.font.bold, run_tit.font.size, run_tit.font.name = True, Pt(14), 'Arial'
     run_tit.font.color.rgb = RGBColor(255, 255, 255) 
-
+# Coloque entre as aspas cabeçalho.
     c2 = table.cell(0, 1)
     infos = [
         ("PROPONENTE:", ""),
