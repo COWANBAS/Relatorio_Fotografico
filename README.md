@@ -23,7 +23,6 @@ As imagens que serão colocadas na pasta devem ser renomeadas seguindo um padrã
 *Gerando o relatório*
 
 Antes de gerar o relatório com o script, instale as dependências dele, que, neste caso, são a biblioteca *python-docx*, utilizada para criar documentos Word com o Python. Execute o comando abaixo para instalá-la:
-
 ```bash
 pip install python-docx
 ```
