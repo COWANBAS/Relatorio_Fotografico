@@ -8,8 +8,8 @@ Fiz este script para gerar automaticamente um relatório fotográfico da obra em
 
 Primeiramente vamos estar atualizando o Script.py para que o titulo e o local da obra estejam corretos.
 
-<img width="444" height="120" alt="image" src="https://github.com/user-attachments/assets/6e1f84aa-c16f-4224-b011-ac1a8c2a10ae" />
+<img width="673" height="414" alt="image" src="https://github.com/user-attachments/assets/fa1b2114-90e1-41cd-86df-3db78390b00e" />
 
-Atualize para que apareça as informações que preferir nesse caso usarei dados que não existem para gerar um documento de exemplo.
+Atualize para que apareça as informações que preferir nesse caso usarei dados que não existem para gerar um documento de exemplo, aqui você pode ajustar o tamanho e o estilo da fonta para qual preferir nesse caso vou deixar como padrão, lembrando que tem como mudar no documento quando ele for gerado.
 
 *Ajustando as fotos*
