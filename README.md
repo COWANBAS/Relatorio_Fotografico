@@ -35,3 +35,6 @@ Apos isso ja com o script arrumado e as imagens colocadas dentro da pasta abra o
 ```bash
 python Script.py
 ```
+O relatorio sera gerado automaticamente agora e so abrir e conferir para ver como ele ficou 
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ca2f3f2b-fe80-45c8-bcf9-5f47ada3a961" />
