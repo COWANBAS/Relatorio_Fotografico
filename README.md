@@ -38,3 +38,7 @@ python Script.py
 O relatorio sera gerado automaticamente agora e so abrir e conferir para ver como ele ficou 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ca2f3f2b-fe80-45c8-bcf9-5f47ada3a961" />
+
+Pronto aqui está nosso documento gerado, se quiser mudar alguma coisa nele basta editar com o documento word 
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/59744836-61a5-4bb5-beb8-47c6371711cc" />
