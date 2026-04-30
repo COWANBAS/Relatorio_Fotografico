@@ -18,7 +18,7 @@ Para ajustar as fotos, é bem simples: primeiro, criamos uma pasta no local onde
 
 As imagens que serão colocadas na pasta devem ser renomeadas seguindo um padrão. Primeiramente, coloque a numeração de cada imagem; essa numeração será a ordem em que elas aparecerão no relatório, do menor para o maior. Logo após inserir a numeração, adicione um título à imagem; esse título será a legenda que ficará abaixo das fotos no documento.
 
-<img width="496" height="356" alt="image" src="https://github.com/user-attachments/assets/cc1b2de4-ad88-49e8-80ad-7bb274789735" />
+<img width="496" height="356" alt="image" src="https://github.com/user-attachments/assets/cc1b2de4-ad88-49e8-80ad-7bb274789735" /><br>
 
 *Gerando o relatório*
 
