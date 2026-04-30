@@ -29,3 +29,9 @@ Antes de gerar o relatório com o script instale as depedencias dele que no caso
 ```bash
 pip install python-docx
 ```
+
+Apos isso ja com o script arrumado e as imagens colocadas dentro da pasta abra o terminal no local em que você esta e digite o comando para rodar o script:
+
+```bash
+python Script.py
+```
