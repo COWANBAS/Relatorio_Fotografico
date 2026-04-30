@@ -26,4 +26,6 @@ As imagens que serão colocadas na pasta devem ser renomeadas seguindo um padrã
 
 Antes de gerar o relatório com o script instale as depedencias dele que no caso e a biblioteca *python-docx* que utlizamos para fazer documentos world com o python, rode o comando abaixo para instalar ela:
 
+```bash
 pip install python-docx
+```
