@@ -23,3 +23,7 @@ As imagens que serão colocadas na pasta devem ser renomeadas seguindo um padrã
 <img width="496" height="356" alt="image" src="https://github.com/user-attachments/assets/cc1b2de4-ad88-49e8-80ad-7bb274789735" />
 
 *Gerando o relatório*
+
+Antes de gerar o relatório com o script instale as depedencias dele que no caso e a biblioteca *python-docx* que utlizamos para fazer documentos world com o python, rode o comando abaixo para instalar ela:
+
+pip install python-docx
