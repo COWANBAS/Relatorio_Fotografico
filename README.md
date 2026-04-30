@@ -14,11 +14,11 @@ Atualize para que apareçam as informações que preferir. Nesse caso, usarei da
 
 Para ajustar as fotos, é bem simples: primeiro, criamos uma pasta no local onde o Script.py está e a renomeamos para “Imagens”. Dentro dela, ajustaremos as legendas e a ordem das fotos.<br>
 
-<img width="268" height="187" alt="image" src="https://github.com/user-attachments/assets/08333715-7f6e-4b63-acfd-5f395496d7e4" /><br>
+<img width="268" height="187" alt="image" src="https://github.com/user-attachments/assets/08333715-7f6e-4b63-acfd-5f395496d7e4" />
 
 As imagens que serão colocadas na pasta devem ser renomeadas seguindo um padrão. Primeiramente, coloque a numeração de cada imagem; essa numeração será a ordem em que elas aparecerão no relatório, do menor para o maior. Logo após inserir a numeração, adicione um título à imagem; esse título será a legenda que ficará abaixo das fotos no documento.
 
-<img width="496" height="356" alt="image" src="https://github.com/user-attachments/assets/cc1b2de4-ad88-49e8-80ad-7bb274789735" /><br>
+<img width="496" height="356" alt="image" src="https://github.com/user-attachments/assets/cc1b2de4-ad88-49e8-80ad-7bb274789735" />
 
 *Gerando o relatório*
 
